@@ -393,8 +393,7 @@ button {
   display: flex;
   justify-content: space-between;
 }
-.client-list-li {
-}
+
 .client-link {
   width: 170px;
   height: 92px;
